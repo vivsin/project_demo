@@ -1,2 +1,2 @@
 # project_demo
-this for learning purposes
+this is for learning purposes
